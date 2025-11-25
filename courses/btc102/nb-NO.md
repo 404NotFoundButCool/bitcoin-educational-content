@@ -1,17 +1,17 @@
 ---
-name: Få dine første bitcoins
-goal: Lær hvordan du kjøper, sikrer og administrerer dine første bitcoins på egen hånd.
+name: Kom i gang med Bitcoin - kjøp, sikre og administrer selv
+goal: Lær å kjøpe, oppbevare og administrere dine første bitcoin selv.
 objectives: 
 
   - Identifisere og unngå vanlige fallgruver forbundet med Bitcoin
-  - Forstå de grunnleggende prinsippene i Bitcoin
+  - Forstå de grunnleggende prinsippene innen Bitcoin
   - Velg den sikkerhetsstrategien som passer best til dine behov
-  - Lær hvordan og hvor du kan få dine første bitcoins
-  - Forbered en arveplan for å overføre bitcoinsene dine
+  - Lær hvor og hvordan du kan kjøpe dine første Bitcoin
+  - Utarbeide en arveplan for sikker overføring av Bitcoin
 
 
 ---
-# En reise til dine første bitcoins
+# Veien til din første Bitcoin
 
 
 Bitcoin-økosystemet opplever en spektakulær og enestående vekst. De teknologiske, økonomiske og sosiale endringene som Satoshi Nakamotos oppfinnelse har ført til, intensiveres dag for dag og åpner gradvis dørene til en ny verden som du nå kan dra full nytte av.
@@ -2682,7 +2682,7 @@ https://planb.academy/tutorials/wallet/hardware/portal-bd6e83f0-0100-4689-aeb3-5
 
 https://planb.academy/tutorials/wallet/hardware/satochip-e9bc81d9-d59b-420d-9672-3360212237ba
 
-https://planb.academy/tutorials/wallet/hardware/seedsigner-2b274bff-6fc8-407a-92d7-f6ec4d1fadfb
+https://planb.academy/tutorials/wallet/hardware/seed-signer-ee2c284a-0e23-49a4-b0ca-4a4702072973
 
 https://planb.academy/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4a-2f2be1e7d5d2
 
