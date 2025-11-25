@@ -1,17 +1,17 @@
 ---
-name: Få dine første bitcoins
-goal: Lær hvordan du kjøper, sikrer og administrerer dine første bitcoins på egen hånd.
+name: Kom i gang med Bitcoin – kjøp, sikre og administrer selv
+goal: Lær å kjøpe, oppbevare og administrere dine første Bitcoin selv.
 objectives: 
 
   - Identifisere og unngå vanlige fallgruver forbundet med Bitcoin
   - Forstå de grunnleggende prinsippene i Bitcoin
   - Velg den sikkerhetsstrategien som passer best til dine behov
-  - Lær hvordan og hvor du kan få dine første bitcoins
-  - Forbered en arveplan for å overføre bitcoinsene dine
+  - Lær hvor og hvordan du kan kjøpe dine første Bitcoin
+  - Utarbeide en arveplan for trygg overføring av Bitcoin
 
 
 ---
-# En reise til dine første bitcoins
+# Veien til din første Bitcoin
 
 
 Bitcoin-økosystemet opplever en spektakulær og enestående vekst. De teknologiske, økonomiske og sosiale endringene som Satoshi Nakamotos oppfinnelse har ført til, intensiveres dag for dag og åpner gradvis dørene til en ny verden som du nå kan dra full nytte av.
