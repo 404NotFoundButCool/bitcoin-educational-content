@@ -14,16 +14,16 @@ objectives:
 # Veien til din første Bitcoin
 
 
-Bitcoin-økosystemet opplever en spektakulær og enestående vekst. De teknologiske, økonomiske og sosiale endringene som Satoshi Nakamotos oppfinnelse har ført til, intensiveres dag for dag og åpner gradvis dørene til en ny verden som du nå kan dra full nytte av.
+Bitcoin-økosystemet opplever en spektakulær og enestående vekst. De teknologiske, økonomiske og sosiale endringene drevet av Satoshi Nakamoto sin oppfinnelse blir stadig sterkere og åpner gradvis dørene til en ny verden du nå kan ta del i.
 
 
-Å dykke ned i Bitcoin-kaninhullet er et spennende intellektuelt eventyr som vil stimulere din kritiske tenkning og utfordre mange av dine overbevisninger. Denne utforskningen vil ikke bare gi deg en dyp forståelse av hvordan Bitcoin fungerer, men også en reell mulighet til å gjenvinne din personlige frihet, beskytte personvernet ditt og oppnå ekte økonomisk suverenitet.
+Å utforske Bitcoin i dybden er et spennende intellektuelt eventyr som stimulerer kritisk tenkning og utfordrer mange av dine oppfatninger. Denne utforskningen gir deg ikke bare en dyp forståelse av hvordan Bitcoin fungerer, men også en reell mulighet til å gjenvinne personlig frihet, beskytte personvernet ditt og oppnå ekte økonomisk suverenitet.
 
 
-For å veilede deg effektivt gjennom denne reisen har jeg laget dette helt gratis kurset. Her er fokuset utelukkende på Bitcoin. Ingen irrelevante diskusjoner, ingen omtale av andre kryptovalutaer, bare klart, presist og enkelt innhold.
+For å veilede deg gjennom denne reisen har jeg laget dette kurset, helt gratis. Her er fokuset utelukkende på Bitcoin. Ingen irrelevante diskusjoner, ingen omtale av andre kryptovalutaer - bare klart, presist og enkelt innhold.
 
 
-Dette kurset er utformet for å gi deg full kontroll over hvordan du lærer, slik at du kan utforske Bitcoin i ditt eget tempo og følge den veien som passer best til dine interesser og mål.
+Dette kurset er utformet for å gi deg full kontroll over læringen, slik at du kan utforske Bitcoin i ditt eget tempo og følge den veien som passer best for dine interesser og mål.
 
 
 +++
